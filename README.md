@@ -3,9 +3,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;Competitive+Programmer;MERN+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20ReactJs;Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center"> 
-	<img src="https://github.com/SyedHasibRahman/?username=SyedHasibRahman=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
+## :sassy_man:  About me
+- 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
+- 💻: I am a competitive programmer mainly at `hackerrank`
+- 👨‍💻: I love using Software as a solution for every `Problem`
+- 🏆: Black Belt `Awards & Certificates` from Programing Hero 
+- 😆: Team Leader of Team Anonymous at Programing Hero Endgame
+- 📘: I’m currently learning: `Computer Science` and `Software Engineering`.
+- 🏫: Bachelor’s Degree in `Computer Science & Engineering`, Northern University, - :Bangladesh:
+- 🤔: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
+- 🤓: Always `learning new things`
+
+<br>
