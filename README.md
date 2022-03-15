@@ -4,7 +4,6 @@
 </p>
 
 ## :sassy_man:  About me
-<p><img align="right" width="30%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 - 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
 - 💻: I am a competitive programmer mainly at `hackerrank`
 - 👨‍💻: I love using Software as a solution for every `Problem`
