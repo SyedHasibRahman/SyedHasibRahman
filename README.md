@@ -4,7 +4,21 @@
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+ 
+## :sassy_man:  About me
+- 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
+- 💻: I am a competitive programmer mainly at `hackerrank`
+- 👨‍💻: I love using Software as a solution for every `Problem`
+- 🏆: Black Belt `Awards & Certificates` from Programing Hero 
+- 😆: `Team Leader` of Team Anonymous at Programing Hero Endgame
+- 📘: I’m currently learning: `Computer Science` and `Software Engineering`.
+- 🏫: Bachelor’s Degree in `Computer Science & Engineering`, Northern University, - :Bangladesh:
+- 🤔: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
+- 🤓: Always `learning new things`
+
+<br>
+
+<h3 align="left" width="70%">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -45,10 +59,10 @@
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
+      
+      
 
-<br>
-
-<h3 align="right">Connect with me:</h3>
+<h3 align="right" width="30%">Connect with me:</h3>
 <p align="right">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -66,17 +80,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-<br>
-## :sassy_man:  About me
-- 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
-- 💻: I am a competitive programmer mainly at `hackerrank`
-- 👨‍💻: I love using Software as a solution for every `Problem`
-- 🏆: Black Belt `Awards & Certificates` from Programing Hero 
-- 😆: `Team Leader` of Team Anonymous at Programing Hero Endgame
-- 📘: I’m currently learning: `Computer Science` and `Software Engineering`.
-- 🏫: Bachelor’s Degree in `Computer Science & Engineering`, Northern University, - :Bangladesh:
-- 🤔: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
-- 🤓: Always `learning new things`
 
 <br>
  
