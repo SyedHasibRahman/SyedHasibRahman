@@ -8,7 +8,7 @@
 - 💻: I am a competitive programmer mainly at `hackerrank`
 - 👨‍💻: I love using Software as a solution for every `Problem`
 - 🏆: Black Belt `Awards & Certificates` from Programing Hero 
-- 😆: Team Leader of Team Anonymous at Programing Hero Endgame
+- 😆: `Team Leader` of Team Anonymous at Programing Hero Endgame
 - 📘: I’m currently learning: `Computer Science` and `Software Engineering`.
 - 🏫: Bachelor’s Degree in `Computer Science & Engineering`, Northern University, - :Bangladesh:
 - 🤔: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
