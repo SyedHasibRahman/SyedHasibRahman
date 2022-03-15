@@ -4,7 +4,7 @@
 </p>
 
 <div>
-  <div align="left" width="69%">
+  <div float="left" width="69%">
   ## :sassy_man:  About me
 - 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
 - 💻: I am a competitive programmer mainly at `hackerrank`
@@ -16,7 +16,7 @@
 - 🤔: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
 - 🤓: Always `learning new things`
   </div>
-  <div  align="right" width="29%">
+  <div  float="right" width="29%">
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
   </div>
 </div>
