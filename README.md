@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering;Competitive+Programmer;MERN+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20ReactJs;Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 ## :sassy_man:  About me
 - 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
 - 💻: I am a competitive programmer mainly at `hackerrank`
