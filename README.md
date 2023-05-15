@@ -83,5 +83,7 @@
  ## Stats
 
   <br/>
-    <a  href="https://github.com/SyedHasibRahman/github-readme-stats"><img align="center" alt="Mahfuz Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedHasibRahman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
-  <a href="https://github.com/SyedHasibRahman/github-readme-stats"><img alt="Mahfuz Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHasibRahman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <span>
+    <a width="50%"  align="left" href="https://github.com/SyedHasibRahman/github-readme-stats"><img align="center" alt="Mahfuz Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedHasibRahman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
+  <a  width="50%"  align="right" href="https://github.com/SyedHasibRahman/github-readme-stats"><img alt="Mahfuz Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHasibRahman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </span>
