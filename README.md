@@ -34,9 +34,17 @@
 - 🤔: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1COB0shPQn0OjkgbvqINNIE__l-xRemqz/view).
 - 🤓: Always `learning new things`
 
-<br>
+<br> 
+ <h3 align="left">Stats:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+  <br/>
+  <span>
+  <a align="center" href="https://github.com/SyedHasibRahman/github-readme-stats"><img alt="Mahfuz Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHasibRahman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/><br/>
+    <a align="center" href="https://github.com/SyedHasibRahman/github-readme-stats"><img align="center" alt="Mahfuz Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedHasibRahman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  </span>
+<h3 align="left">Loving Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -80,10 +88,4 @@
       
 
 <br>
- ## Stats
 
-  <br/>
-  <span>
-    <a width="50%"  align="left" href="https://github.com/SyedHasibRahman/github-readme-stats"><img align="center" alt="Mahfuz Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SyedHasibRahman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
-  <a  width="50%"  align="right" href="https://github.com/SyedHasibRahman/github-readme-stats"><img alt="Mahfuz Rahman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHasibRahman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </span>
