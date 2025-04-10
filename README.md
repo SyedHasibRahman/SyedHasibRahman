@@ -21,9 +21,9 @@
       alt="syedhasib01" height="30" width="40" /></a>
 </p>
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedHasibRahman&label=Profile%20views&color=0e75b6&style=flat" alt="SyedHasibRahman" /> </p>
  
-## :sassy_man:  About me
+## :sassy_man:  About me 
 - 👨‍💻: I am a `MERN` Stack Deeloper from Bangladesh
 - 💻: I am a competitive programmer mainly at `hackerrank`
 - 👨‍💻: I love using Software as a solution for every `Problem`
